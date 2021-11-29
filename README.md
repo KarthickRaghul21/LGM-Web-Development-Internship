@@ -1,2 +1,2 @@
 # LGM-Web-Development-Internship
-The tasks performed in my time of internship in Lets Grow More (LGM)
+This is the Second task of Web Development Internship in Lets Grow More (LGM)
